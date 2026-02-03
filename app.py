@@ -11,6 +11,8 @@ shape4 = Triangulo(7, 14, 9, 7)
 
 def main():
     Shape.listar_todos_comprimentos()
+    print("\n\n")
+    Shape.listar_areas_totais()
 
 
 if __name__ == "__main__":
